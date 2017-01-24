@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# IASC 2P02
+## Chad Foster
 
-You can use the [editor on GitHub](https://github.com/Criim/criim.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisl magna, euismod a sapien ut, consectetur dapibus augue. Duis eleifend egestas nunc nec volutpat. Ut fringilla felis augue, eu placerat tellus gravida sit amet. Donec sagittis justo in metus interdum vestibulum a vitae nisi. Suspendisse fringilla arcu at ipsum varius, et malesuada risus aliquet. Integer purus mauris, varius ac dictum id, viverra ac dui. Pellentesque et consectetur dolor. Integer luctus facilisis neque at dictum. Sed suscipit euismod ante, vel dignissim risus finibus eget. Nulla pulvinar feugiat massa, et fermentum metus bibendum non. Sed vel tempor mi. Morbi posuere tempus nunc, eget mollis lorem. Praesent aliquet erat eu arcu vehicula feugiat. Integer eget rutrum magna, sed rutrum odio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Criim/criim.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Proin blandit accumsan turpis nec accumsan. Mauris pharetra hendrerit mauris, nec porta enim condimentum sit amet. Donec dui risus, eleifend vitae ullamcorper id, tempus mattis ligula. Nulla pulvinar purus eget molestie euismod. Etiam elit sapien, condimentum eget pulvinar vel, efficitur id sem. Nulla dignissim ante at felis maximus mollis. Maecenas vitae euismod risus. Ut vulputate, ante eget varius dapibus, odio ligula pretium lectus, ut pulvinar lectus sem at velit. Cras faucibus elit eu ligula sollicitudin interdum at et mauris. Pellentesque eget tellus nec quam cursus sollicitudin ut quis magna.
